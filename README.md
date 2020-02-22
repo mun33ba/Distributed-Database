@@ -7,3 +7,5 @@
 4. Extract the folder in `xampp` --> `htdocs`
 5. Establish Connections
 6. Run `localhost\foldername\index.php` on the browser in headquater node. `Insert.php` in other nodes.
+
+Has also used front-end technologies for interacting with users. 
