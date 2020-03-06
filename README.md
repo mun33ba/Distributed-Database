@@ -8,4 +8,4 @@
 5. Establish Connections
 6. Run `localhost\foldername\index.php` on the browser in headquater node. `Insert.php` in other nodes.
 
-Has also used front-end technologies for interacting with users:HTML,CSS,Bootstrap 
+ HTML,CSS,Bootstrap 
