@@ -1,4 +1,4 @@
-## Distributed-Database :+1:
+## Distributed-Database 
 
 *Three nodes containing 4 databases are connected.The connection is made in a way that data can be transmitted over the nodes as per the employees’ wish; asynchronously (updating data to local nodes via the headquarter) or synchronously (updating data on all nodes at the same time).*
 
