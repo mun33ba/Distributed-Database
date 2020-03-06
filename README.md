@@ -1,4 +1,5 @@
 ## Distributed-Database :+1:
+
 *Three nodes containing 4 databases are connected.The connection is made in a way that data can be transmitted over the nodes as per the employees’ wish; asynchronously (updating data to local nodes via the headquarter) or synchronously (updating data on all nodes at the same time).*
 
 1. Create a database `financial&cost_accounts` on `localhost/127.0.0.1/phpmyadmin` on the headquarter node.
@@ -8,4 +9,11 @@
 5. Establish Connections
 6. Run `localhost\foldername\index.php` on the browser in headquater node. `Insert.php` in other nodes.
 
- HTML,CSS,Bootstrap 
+
+## Technologies used 🛠️
+
+- [HTML 5](https://www.w3schools.com/html/)
+
+- [CSS3](https://www.w3schools.com/css/default.asp) 
+
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) 
