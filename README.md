@@ -10,7 +10,7 @@
 6. Run `localhost\foldername\index.php` on the browser in headquater node. `Insert.php` in other nodes.
 
 
-## Technologies used 🛠️
+## Front-end Technologies used 🛠️
 
 - [HTML 5](https://www.w3schools.com/html/)
 
